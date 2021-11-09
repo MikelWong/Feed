@@ -1,8 +1,6 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:100
+#EXT-X-TARGETDURATION:25
 #EXTINF:25,
-https://link.zozotv.xyz/ding/ding/35
-#EXTINF:35,
 https://link.zozotv.xyz/ding/ding/35
 #EXTINF:40,
 https://link.zozotv.xyz/ding/ding/35
