@@ -1,7 +1,3 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:25
-#EXTINF:25,
-https://link.zozotv.xyz/ding/ding/36
-#EXTINF:50,
-https://link.zozotv.xyz/ding/ding/36
-#EXT-X-ENDLIST
+#EXT-X-STREAM-INF:BANDWIDTH=1964424,AVERAGE-BANDWIDTH=1964424,CODECS="avc1.64001f,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1280x720,CLOSED-CAPTION=NONE,NAME="720"
+https://link.zozotv.xyz/live/ding/ding/36.m3u8
